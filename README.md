@@ -1,4 +1,4 @@
 # shoppeechampsbadger
 github test
-# CORLISS IS A JVIVE
+# CORLISS IS A JIVE
 # OCT 21 Training Camp
